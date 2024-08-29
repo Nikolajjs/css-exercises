@@ -1,0 +1,19 @@
+.klasa {
+  background-color: #eea5ad;  
+  font-family: "Verdana", "DejaVu sans", sans-serif;
+}
+
+.subklasa {
+    font-size: 24px;
+}
+
+#number2 {
+    color: #1313e0;
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: #8eff84;
+    font-size: 24px;
+    font-weight: bold;
+}
